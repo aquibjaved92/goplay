@@ -1,0 +1,20 @@
+.body {
+    padding: 20px 20px 100px 20px;
+}
+.body h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.body div{
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.body div p {
+    font-size: 40px;
+    font-weight: 600;
+}

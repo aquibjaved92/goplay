@@ -1,0 +1,48 @@
+.header {
+    background-color: #00A028;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.header p {
+    margin-top: 15px;
+    padding: 10px;
+    text-align: right;
+    font-size: 30px;
+    font-weight: 800;
+    width: 60%;
+    color: white;
+}
+
+.login-btn {
+    height: 59px;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.login-btn h3 {
+    color: white;
+    margin-right: 20px;
+}
+.google-btn {
+    height : fit-content;
+    width: 40px;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+.fb-btn {
+    height: 49px;
+    width: 45px;
+    margin-top: 6px;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 10px;
+    font-size: 22px;
+    margin-right: 20px;
+    cursor: pointer;
+}

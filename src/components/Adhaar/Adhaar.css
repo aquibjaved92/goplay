@@ -1,0 +1,60 @@
+
+.modal {
+    margin-left: 35%;
+}
+
+.adhaar-card {
+    width : 300px;
+    max-height: 460px;
+    min-height: 460px;
+    border: 1px solid black;
+    background-color: #FFFFFF;
+    padding-bottom: 10px;
+}
+
+.top-bar {
+    background-color: black;
+    padding: 1px;
+}
+
+.top-bar h3{
+    text-align: center;
+    color: black;
+    margin-left: 85%;
+    font-size: 17px;
+    border: 1px solid black;
+    background-color: white;
+    width: 27px;
+    height: 21px;
+    cursor: pointer;
+}
+
+.card-image {
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+}
+
+.card-image img {
+    width: 50%;
+}
+
+.card-image p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.card-info {
+    padding: 5px;
+}
+
+.card-info p {
+    font-size: 17px;
+    padding: 7px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+
+.share-btn {
+    justify-content: center;
+}
